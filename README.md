@@ -13,10 +13,10 @@ Over the recent years, many reports have surfaced ranking countries by their hap
 ## Describe your dataset in about 150-200 words
 
 We will be using the [World Happiness Report 2021](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021) in conjuction with the following:
-[World Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
-[Life Expectancy](https://www.kaggle.com/brendan45774/countries-life-expectancy)
-[Coronavirus Spread](https://www.statista.com/topics/5994/the-coronavirus-disease-covid-19-outbreak/)
-[Productivity](http://longtermproductivity.com/about.html)
+1. [World Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
+1. [Life Expectancy](https://www.kaggle.com/brendan45774/countries-life-expectancy)
+1. [Coronavirus Spread](https://www.statista.com/topics/5994/the-coronavirus-disease-covid-19-outbreak/)
+1. [Productivity](http://longtermproductivity.com/about.html)
 
 We would like to explore how these datasets may connect to a country's happiness index.
 
