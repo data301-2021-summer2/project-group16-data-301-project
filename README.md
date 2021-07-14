@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 16 - What factors determine Happiness?
 
 - Your title can change over time.
 
@@ -8,17 +8,22 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+Over the recent years, many reports have surfaced ranking countries by their happiness index. Although there are many factors that contribute to a person's individual happiness, we want to determine the macroscopic characteristics a country may possess which lead to a happier population. Using country specific data, we want to explore the connections between happiness and various factors. This investigation may enlighten us and provide valuable insight into helping individuals determine where they would like to reside. 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+We will be using the [World Happiness Report 2021](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021) in conjuction with the following:
+[World Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
+[Life Expectancy](https://www.kaggle.com/brendan45774/countries-life-expectancy)
+[Coronavirus Spread](https://www.statista.com/topics/5994/the-coronavirus-disease-covid-19-outbreak/)
+[Productivity](http://longtermproductivity.com/about.html)
+
+We would like to explore how these datasets may connect to a country's happiness index.
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Bellinda Yin: one sentence about you!
+- Sue Wang: one sentence about you!
 
 ## References
 
