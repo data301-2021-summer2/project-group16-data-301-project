@@ -22,7 +22,7 @@ We would like to explore how these datasets may connect to a country's happiness
 
 ## Team Members
 
-- Bellinda Yin: one sentence about you!
+- Bellinda Yin: I'm interested to learn more about data analysis and what you can do with it!
 - Sue Wang: one sentence about you!
 
 ## References
