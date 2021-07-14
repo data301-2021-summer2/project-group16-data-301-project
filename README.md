@@ -8,9 +8,29 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
+What do you hope to do with your analytics project?
+
+Why are you interested in this topic or dataset?
+
+Do you have any questions you specifically want to explore?
+
+Could you imagine building a user-facing Dashboard with this dataset?
+
+Note: In the final weeks of the course you will be building a Dashboard with your data so choose wisely!
+
 Over the recent years, many reports have surfaced ranking countries by their happiness index. Although there are many factors that contribute to a person's individual happiness, we want to determine the macroscopic characteristics a country may possess which lead to a happier population. Using country specific data, we want to explore the connections between happiness and various factors. This investigation may enlighten us and provide valuable insight into helping individuals determine where they would like to reside. 
 
 ## Describe your dataset in about 150-200 words
+
+Who: Which company/agency/organization provided this data?
+
+What: What is in your data?
+
+When: When was your data collected (for example, for which years)?
+
+Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
+
+How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
 
 We will be using the [World Happiness Report 2021](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021) in conjuction with the following:
 1. [World Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
