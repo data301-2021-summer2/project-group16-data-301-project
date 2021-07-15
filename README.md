@@ -14,18 +14,19 @@ Do you have any questions you specifically want to explore?
 
 Could you imagine building a user-facing Dashboard with this dataset?
 
-Over the recent years, many reports have surfaced ranking countries by their happiness index. Although there are many factors that contribute to a person's individual happiness, we want to determine the macroscopic characteristics a country may possess which lead to a happier population. We would like to determine if health factors or financial fators are a stronger predictor of happiness. Using country specific data, we want to explore the connections between happiness and various indicators. This investigation may enlighten us and provide valuable insight into helping individuals determine where they would like to reside. This would make an interesting dashboard since we can create a world map with all our statistics.
+Over the recent years, many reports have surfaced ranking countries by their happiness index. Although there are many factors that contribute to a person's individual happiness, we want to determine the macroscopic characteristics a country may possess which lead to a happier population. We would like to determine if health factors, or economics factors are a stronger predictor of happiness. Using country specific data, we want to explore the connections between happiness and various indicators. This investigation may enlighten us and provide valuable insight into helping individuals determine where they would like to reside. This would make an interesting dashboard since we can create a world map with all our statistics. In addition, by doing trend analysis we want to see if data set indicates positive trends that people are more satisfied with their life today.
 
 ## Describe your dataset in about 150-200 words
 
 *Who: Which company/agency/organization provided this data?*
-- The world Happiness Report was downloaded from Kaggle and originated from the Gallup World Poll. 
+- The World Happiness Report was downloaded from Kaggle and originated from the Gallup World Poll. 
 All Health related indicator data is directly from the WHO. 
 
 *What: What is in your data?*
 - All our Data is in CSV format and includes the country, year of relevance, and indicator statistics. 
 
 *When: When was your data collected (for example, for which years)?*
+- Data collected from year 2005 to year 2021.
 
 *Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…*
 - The happiness report is often used for policy making and civil society
@@ -41,7 +42,7 @@ We would like to explore how these datasets may connect to a country's happiness
 ## Team Members
 
 - Bellinda Yin: I'm interested to learn more about data analysis and what you can do with it!
-- Sue Wang: one sentence about you!
+- Sue Wang: I have the enthusiasm to understand how data plays an important role to empower people make decisions based on facts and trends.
 
 ## References
 
