@@ -60,3 +60,6 @@ We would like to explore how these datasets may connect to a country's happiness
 - [Smoking Rates](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/age-standardized-prevalence-of-current-tobacco-smoking-among-persons-aged-15-years-and-older)
 - [Air Quality](https://www.who.int/data/gho/data/themes/air-pollution/modelled-exposure-of-pm-air-pollution-exposure)
 - [Rates of Homicide](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimates-of-rates-of-homicides-per-100-000-population)
+2. Economics Factors
+- [Country, Regional and World GDP](https://www.kaggle.com/tunguz/country-regional-and-world-gdp)
+- [2020 Cost of Living](https://www.kaggle.com/andradaolteanu/2020-cost-of-living)
