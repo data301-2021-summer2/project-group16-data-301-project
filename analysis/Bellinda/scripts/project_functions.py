@@ -29,13 +29,13 @@ def hap_load_and_process(url_or_path_to_csv_file, rename_dict,final_list):
 
     return df2 
 
-def ind_load_and_process(url_or_path_to_csv_file):
+def ind_load_and_process(url_or_path_to_csv_file,ind):
 
     # Method Chain 1 (Load data and deal with missing data)
 
     df1 = (
           pd.read_csv(url_or_path_to_csv_file)
-          .rename(columns={"Location":"country","Period":"period","Value":"value"})
+          .rename(columns={"Location":"country","Period":"period","Value":ind})
           #.dropna()
           # etc...
       )
@@ -47,12 +47,18 @@ def ind_load_and_process(url_or_path_to_csv_file):
           .assign(status=lambda x: np.where((x.period > 2014), 1, 0))
           .sort_values("country", ascending=True)
           .reset_index(drop=True)
-          .loc[:, ["country", "period", "value",'status']]
+          .loc[:, ["country", "period", ind,'status']]
       )
 
     # Make sure to return the latest dataframe
 
     return df2 
+
+def merge_hap(data_frames):
+    
+    merged= reduce(lambda  left,right: pd.merge(left,right,on=['country'],
+                                            how='inner'), data_frames)
+    return merged
     
 def filter_years(df):
     #df['status'] = df.apply(keep_or_discard,axis='columns')
