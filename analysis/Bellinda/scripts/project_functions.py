@@ -29,7 +29,7 @@ def hap_load_and_process(url_or_path_to_csv_file, rename_dict,final_list):
 
     return df2 
 
-def ind_load_and_process(url_or_path_to_csv_file,ind):
+def ind_load_and_process(url_or_path_to_csv_file, ind):
 
     # Method Chain 1 (Load data and deal with missing data)
 
@@ -45,7 +45,7 @@ def ind_load_and_process(url_or_path_to_csv_file,ind):
     df2 = (
           df1
           .assign(status=lambda x: np.where((x.period > 2014), 1, 0))
-          .sort_values("country", ascending=True)
+          .sort_values(['country','period'],ascending=[True, True], ignore_index=True)
           .reset_index(drop=True)
           .loc[:, ["country", "period", ind,'status']]
       )
