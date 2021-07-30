@@ -70,9 +70,8 @@ def edit_data(dataFrame):
     
     numbs=list(dataFrame[list(dataFrame.columns)[2]])
     for string in numbs:
-        string.replace(',','')
         loc = string.find(' ')
-        numbs[numbs.index(string)]=string[0:loc]
+        numbs[numbs.index(string)]=string[0:loc].replace(',','')
 
     return numbs
 
