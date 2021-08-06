@@ -46,7 +46,6 @@ We would like to explore how these datasets may connect to a country's happiness
 
 ## References
 
-{Add your stuff here}
 - [World Happiness Report 2015-2019](https://www.kaggle.com/unsdsn/world-happiness)
 1. Health Factors
 - [World Vaccine Data](https://www.kaggle.com/anandhuh/latest-worldwide-vaccine-data)
