@@ -83,15 +83,15 @@ def clean_ind(df):
     return df
 
 
-H21RawData=pd.read_csv("../data/raw/world-happiness-report-2021.csv")
-H19RawData=pd.read_csv('../data/raw/2019.csv')
-H18RawData=pd.read_csv('../data/raw/2018.csv')
-H17RawData=pd.read_csv('../data/raw/2017.csv')
-H16RawData=pd.read_csv('../data/raw/2016.csv')
-H15RawData=pd.read_csv('../data/raw/2015.csv')
-LivCostRawData=pd.read_csv('../data/raw/cost_of_living 2020.csv')
-GDPRawData=pd.read_csv('../data/raw/gdp.csv')
-H20RawData=pd.read_csv('../data/raw/world-happiness-report.csv')
+H21RawData=pd.read_csv("../../data/raw/world-happiness-report-2021.csv")
+H19RawData=pd.read_csv('../../data/raw/2019.csv')
+H18RawData=pd.read_csv('../../data/raw/2018.csv')
+H17RawData=pd.read_csv('../../data/raw/2017.csv')
+H16RawData=pd.read_csv('../../data/raw/2016.csv')
+H15RawData=pd.read_csv('../../data/raw/2015.csv')
+LivCostRawData=pd.read_csv('../../data/raw/cost_of_living 2020.csv')
+GDPRawData=pd.read_csv('../../data/raw/gdp.csv')
+H20RawData=pd.read_csv('../../data/raw/world-happiness-report.csv')
 
 
 def load_process(path_to_csv):
