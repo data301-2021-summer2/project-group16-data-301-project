@@ -1,6 +1,6 @@
 # Group 16 - What factors determine Happiness?
 
-##Final Milestone Explainer video [here](https://youtu.be/X0CaHH8Jz3s).
+## Final Milestone Explainer video [here](https://youtu.be/X0CaHH8Jz3s).
 
 ## Milestones
 
