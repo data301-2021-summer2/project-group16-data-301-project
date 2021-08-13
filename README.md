@@ -2,6 +2,13 @@
 
 ## Final Milestone Explainer video [here](https://youtu.be/X0CaHH8Jz3s).
 
+Please note the final dash board is slightly different than the one in the Explainer video. You will find the final dashboards below:
+
+![Sue's Dashboard](presentation/Suedash.png)
+![Bellinda's Dashboard](presentation/Bellindadash.png)
+
+All functionalities of the dashboards remain, only some final touches were added. Thank you!
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
